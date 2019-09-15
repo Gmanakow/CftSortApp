@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextTask_jar</output-path>
+    <root id="archive" name="TextTask.jar">
+      <element id="module-output" name="TextTask" />
+    </root>
+  </artifact>
+</component>
